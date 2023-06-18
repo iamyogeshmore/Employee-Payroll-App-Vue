@@ -29,7 +29,7 @@
 </template>
 
 <script>
-import EmployeeService from "../service/EmployeeService";
+import EmployeeService from '../Service/EmployeeService';
 export default {
     name: "DisplayHome",
     data() {

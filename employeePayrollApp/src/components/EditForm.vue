@@ -190,7 +190,7 @@
 </template>
 
 <script>
-import EmployeeService from "../Service/EmployeeService";
+import EmployeeService from '../Service/EmployeeService';
 export default {
     name: "EditForm",
     data() {

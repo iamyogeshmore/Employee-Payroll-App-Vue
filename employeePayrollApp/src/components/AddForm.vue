@@ -191,7 +191,7 @@
 </template>
 
 <script>
-import EmployeeService from "../Service/EmployeeService";
+import EmployeeService from "../Service/EmployeeService.js";
 export default {
     name: "AddForm",
     data() {
